@@ -6,21 +6,7 @@ It exposes a single API endpoint that consolidates customer identities across mu
 
 ---
 
-## 🌐 Live Hosted API
 
-### 🔗 Base URL
-
-```
-https://bitespeed-assignment-l8a5.onrender.com
-```
-
-### 📌 Endpoint
-
-```
-POST https://bitespeed-assignment-l8a5.onrender.com/identify
-```
-
----
 
 ## 🛠 Tech Stack
 
@@ -165,25 +151,12 @@ process.env.PORT
 
 ---
 
-## 📸 Screenshots
 
-1️⃣ API Response – First Request
-2️⃣ API Response – Second Request
-3️⃣ Render Deployment
 
-(Add screenshots in a `/screenshots` folder and reference them here.)
-
----
 
 ## 📌 Submission Links
 
-**Hosted Endpoint:**
 
-```
-https://bitespeed-assignment-l8a5.onrender.com/identify
-```
-
----
 
 ## 👨‍💻 Author
 
